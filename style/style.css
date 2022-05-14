@@ -1,0 +1,32 @@
+html {
+    font-size: 10px;
+    font-family: 'Grape Nuts', cursive;
+    background-color: whitesmoke;
+}
+
+body{
+    width: auto;
+    margin: 5pc 0 5pc auto;
+    background-color: white;
+
+}
+
+h1 {
+    margin: 0;
+    font-size: 60px;
+    text-align: center;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px gray;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
